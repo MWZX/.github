@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to MWZX !
-<img src="./standard.gif">
+<img src="standard.gif">
 
 - 🙋‍♀️ It's MWZX
 - 🌈 Join us!
